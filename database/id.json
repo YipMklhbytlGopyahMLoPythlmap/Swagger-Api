@@ -1,7 +1,20 @@
 {
-    "id": [
-        {"1": "u0_a374", "name": "YukiSmall", "phone": "+6288229683561", "expired_date": "25-12-25"},
-        {"2": "yukixd", "name": "YukiSmall", "phone": "+6287708773367", "expired_date": "25-12-25"},
-        {"3": "u0_a66", "name": "polygon", "phone": "+6285731184377", "expired_date": "11-10-24"}
-    ]
+  "users": {
+    "user1": {
+      "id": "u0_a111",
+      "expiry": "2025-08-01"
+    },
+    "user2": {
+      "id": "u0_a239",
+      "expiry": "2025-08-30"
+    },
+    "user3": {
+      "id": "linux_4f9a3b2c",
+      "expiry": "2025-08-05"
+    },
+    "user4": {
+      "id": "win_admin_74c2f1b7",
+      "expiry": "2025-08-10"
+    }
+  }
 }
